@@ -1,32 +1,22 @@
+<h1 align="center">Hola! 👋, Soy Pome</h1>
 
-![Portada LinkedIn 2023](https://github.com/eliasvelazquezdev/eliasvelazquezdev.github.io/assets/87088600/acb8b8f8-75a6-4f94-ae78-c445c8a488a0)
-
-<h1 align="center">Hey there! 👋, I'm Elias Velazquez</h1>
-
-<p align="left">Highly motivated and skilled Python developer from Argentina with expertise in Django framework and teamwork experience.<p>
-<p align="left">I am a results-driven individual with a solid foundation in theoretical knowledge and soft skills such as communication, time management, problem solving and creative thinking. <p>
-<p align="left">I am adaptable to work with people from different countries and cultures. Native Spanish speaker, C1 level English. </p>
+<p align="left">
+    Hola, soy Alan. Actualmente estoy aprendiendo JavaScript y me estoy enfocando en convertirme en un desarrollador frontend. Disfruto trabajando en proyectos web y he creado algunos pequeños con tecnologías como Astro, HTML y Tailwind CSS.
+</p>
 
  --- 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasvelazquezdev&title=Stars,Followers,Repositories,PullRequest" alt="eliasvelazquezdev"/></a> </p>
+- 🔭 Actualmente estoy trabajando en un Blog para una comunidad de discord [LoL Argentina](https://github.com/1pome/lolargentina) Que se esta creando desde 0 para que funcione con Astro.
 
+- 👨‍💻 All of my projects are available at [mi perfil de GitHub](https://github.com/1pome)
 
-- 🔭 I’m currently working on a social media web app with Django
-
-- 👨‍💻 All of my projects are available at [my web](https://www.eliasvelazquez.me/)
-
-- 📫 How to reach me **evelazquez2604@gmail.com**
-
-- 📄 Know more about me and my experiences [by downloading my resume](https://drive.google.com/file/d/1Ii0LnwW9yrVLl9JfbZ5hN8zNEtcutkR3/view?usp=drive_link)
+- 📫 Como contactarme: [Instagram](https://www.instagram.com/1pomee/)
 
  --- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/esvdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esv343" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eliassvelazquez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliassvelazquez/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18402832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18402832" height="30" width="40" /></a>
+<a href="https://www.instagram.com/1pomee/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esv343" height="30" width="40" /></a>
 </p>
 
  --- 
