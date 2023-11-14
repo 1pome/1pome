@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, Soy Pome</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hola!+soy+1Pome)](https://git.io/typing-svg)
 
 <p align="left">
     Hola, soy Alan. Actualmente estoy aprendiendo JavaScript y me estoy enfocando en convertirme en un desarrollador frontend. Disfruto trabajando en proyectos web y he creado algunos pequeños con tecnologías como Astro, HTML y Tailwind CSS.
